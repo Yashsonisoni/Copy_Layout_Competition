@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="nirajTiwary">Niraj Tiwary</string>
+    <string name="apoorvatiwari">Apoorva Tiwari</string>
+    <string name="ojasvi">Ojasvi Bhargava</string>
+    <string name="divya">Divya Thakur</string>
+    <string name="kartik">Kartik Shandilya</string>
+    <string name="ks">Kshitij Suri</string>
+    <string name="akshit">Akshit Jain</string>
+    <string name="iip">Iip Permana</string>
+    <string name="pb">Prasad Bankar</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="friday">FRIDAY</string>
+    <string name="thursday">THURSDAY</string>
+    <string name="wednesday">WEDNESDAY</string>
+    <string name="monday">MONDAY</string>
+    <string name="hi">hi</string>
+    <string name="hey">hey</string>
+    <string name="ok">ok !</string>
+    <string name="check">I checked well done !!</string>
+    <string name="hello">hello</string>
+    <string name="welldone">Well done</string>
+    <string name="hello_bro">hello bro !!!</string>
+    <string name="contact">contacts</string>
+    <string name="calls">calls</string>
+    <string name="chat">chats</string>
+
+
+
+
+
+</resources>
